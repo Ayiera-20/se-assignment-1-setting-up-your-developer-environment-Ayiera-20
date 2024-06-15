@@ -56,7 +56,7 @@ Note: Feel free to reach out for clarification or assistance with any aspect of 
 
 
 
-## Task 9: Setting Up Development Environment
+## Setting Up Development Environment
 
 ### Overview
 Setting up my development environment was crucial for ensuring productivity and efficiency in my software engineering projects. In this task, I covered the necessary steps to configure a development environment suitable for coding, debugging, version control, and collaboration.
