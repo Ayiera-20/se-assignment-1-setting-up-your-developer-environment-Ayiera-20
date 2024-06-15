@@ -52,3 +52,72 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+
+## Task 9: Setting Up Development Environment
+
+### Overview
+Setting up my development environment was crucial for ensuring productivity and efficiency in my software engineering projects. In this task, I covered the necessary steps to configure a development environment suitable for coding, debugging, version control, and collaboration.
+
+### Steps:
+
+1. **Selected My Operating System (OS):**
+   - I already had Windows 11 as my operating system installed in my computer.
+
+2. **Installed a Text Editor or Integrated Development Environment (IDE):**
+   - I already had Visual Studio Code installed as my text editor/IDE which I downloaded from [here](https://code.visualstudio.com/Download).
+
+3. **Set Up Version Control System:**
+   - I installed Git by downloading it from [here](https://git-scm.com/) and followed the provided installation instructions.
+   - Next, I already had an existing GitHub account which I created from [here](https://github.com).
+   - I initialized a Git repository for my first assignment by navigating to my project directory in the terminal and running:
+     ```
+     git init
+     ```
+   - Then,
+     ```
+     git add .
+     git commit -m "commit message"
+     ```
+     
+![Installed git](<Installed git Screenshot.png>)
+
+4. **Installed Necessary Programming Languages and Runtimes:**
+   - I downloaded and installed Python from [python.org](https://www.python.org/downloads/).
+   After installing Python, I proceeded to install Django framework, a prerequisite for a project. I downloaded Django by running the following command in the terminal:
+   <!-- pip install django -->
+This ensured that Django was installed within my Python environment, allowing me to proceed with setting up a project.
+I already had Dart and Fluter installed in my computer.
+
+
+![dart, flutter & python versions](<dart, flutter & python versions screenshot.png>)
+
+![Django installation](<Django installation Screenshot.png>)
+
+![Running django](<Running django Screenshot.png>)
+
+
+5. **Installed Package Managers:**
+   - I also installed pip, the package manager for Python, by following the instructions [here](https://pip.pypa.io/en/stable/installation/).
+
+6. **Configured a Database (MySQL):**
+   - I downloaded and installed the MySQL database from [here](https://dev.mysql.com/downloads/windows/installer/5.7.html) and followed the installation instructions provided.
+
+![MYSQL DATABSE](<MY SQL DATABSE screenshot.png>)
+
+
+7. **Set Up Development Environments and Virtualization:**
+   - I considered using Docker that will help me isolate project dependencies and ensure consistent environments across different machines.
+
+8. **Explored Extensions and Plugins:**
+   - I explored available extensions and plugins for Visual Studio Code to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+
+
+### Reflection:
+Setting up Django posed some challenges during the installation process. Initially, I encountered difficulties with ensuring compatibility between Django and my existing Python environment. This caused some confusion and required additional research to resolve.
+
+Another challenge was dealing with dependencies and ensuring that all required packages were installed correctly. Django has various dependencies, and managing them manually can be daunting, especially for beginners.
+
+Despite these challenges, I was able to successfully install Django by following the official documentation, seeking help from online resources, and experimenting with different configurations until everything worked smoothly.
